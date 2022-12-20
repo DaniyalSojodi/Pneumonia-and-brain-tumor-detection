@@ -1,4 +1,5 @@
 # Pneumonia-and-brain-tumor-detection
+# Group 12, Daniyal Sojoudi and Mert Sehri
 Project: CNN model for Disease Detection.
 This project is for Pneumonia detection and brain tumor detection using convolutional nerual network. 
 Different activation function has been used in to reach to the optimal CNN model.
